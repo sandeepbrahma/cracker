@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "crackers"
+  "defaultProject": "crackers",
+  "cli": {
+    "analytics": false
+  }
 }

@@ -1,0 +1,10 @@
+.main{
+    height: 100vh;
+    background: linear-gradient(225deg, red 0%, blue 88%, darkblue 100%);
+    display: flex;
+    flex-direction: column;
+}
+
+.inner{
+    background: linear-gradient(45deg, yellow 0%, green 66%, darkgreen 100%);
+}
